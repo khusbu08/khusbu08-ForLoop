@@ -49,6 +49,7 @@ public class Lab {
       buildingString = buildingString + i + " ";
     //  buildingString.append(i).append(" ");
 
+    
     }
     return buildingString.toString().trim();
 
